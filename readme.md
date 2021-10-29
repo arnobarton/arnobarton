@@ -1,5 +1,5 @@
 HI,
-My name is Arno Barton and im a high school student that loves deep learning and python.
+My name is Arno Barton and im a high school student that likes deep learning and python.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arno-barton-a266b0224/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/arno___barton/)
