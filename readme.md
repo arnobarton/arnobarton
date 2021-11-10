@@ -8,7 +8,7 @@ My name is Arno Barton and im a high school student that likes deep learning and
 
 
 
-- 👨🏻‍💻 I’m currently working on something cool;
+- 👨🏻‍💻 I’m currently working on some web3 intergrated AI projects;
 - 🚀 I’m currently learning Tensorflow and Machine learning Algorithms;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: abarto24@igs.vic.edu.au;
